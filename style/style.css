@@ -2,6 +2,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -41,4 +42,15 @@ nav li {
 nav a{
     text-decoration: none;
     color:black;
+}
+,header {
+    background-color: #fff8f3;
+}
+.baner{
+    padding: 30px  30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.baner .profile{
+    width: 500px;
 }
